@@ -1,3 +1,13 @@
+body{
+    margin:0;
+    background-image: url(./pic.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
 h1{
     font-size: 2rem;
     font-family: sans-serif;
